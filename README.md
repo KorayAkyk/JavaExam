@@ -14,7 +14,7 @@ Java 16, Maven, Hibernate, MySQL.
 
 ## Ce qu'il faut
 
-JDK 16 ou plus récent, Maven et un serveur MySQL local avec une base nommée `examenjava` (réglages dans `src/main/resources/hibernate.cfg.xml`).
+JDK 16 ou plus récent, Maven et un serveur MySQL local avec une base nommée `examenjava` (réglages dans `src/main/resources/hibernate.cfg.xml`). L'identifiant et le mot de passe se règlent avec les variables d'environnement `DB_USER` et `DB_PASSWORD`.
 
 ## Etat
 
